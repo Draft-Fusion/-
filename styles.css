@@ -1,0 +1,45 @@
+body {
+	background-color: #2e303b;
+}
+
+h1 {
+	border-width: 8px;
+	width: 50px;
+	height: 50px;
+	border-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet) 1;
+}
+
+p {
+	color: red;
+	font-size: 32px;
+	text-align: center;
+		
+}
+
+.coolEmoji{
+	text-align: center;
+	text-shadow: 0px 0px 255px #ff0000,0px 0px 255px #7756c4;
+	color: #b683d6;
+	font-size: 164px;
+}
+
+/* .squareBackground {
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	margin: 8px;
+	border-radius:3px;
+	border: 8px dotted #2e303b;
+	background: linear-gradient(#2e303b 0 0) padding-box,
+	linear-gradient(red, orange, yellow, green, blue, indigo, violet) border-box; 
+}
+
+.squareDoted {
+	border: 8px dotted #2e303b;
+	height: calc(100% - 4px);
+}
+
+.squareFill {
+	background: #fff;
+	height: 100%;
+} */
